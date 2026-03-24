@@ -1,4 +1,4 @@
-# NIST CSF 2.0 Mini Compliance Program
+# NIST CSF 2.0 Compliance Project
 
 ## 📖 Project Overview
 This project demonstrates a **Governance, Risk, and Compliance (GRC)**-style cybersecurity assessment using the **NIST Cybersecurity Framework (CSF) 2.0**.
