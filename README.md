@@ -84,8 +84,7 @@ The assessment follows a simplified GRC approach:
 ---
 
 ## ⚠️ Example Risk Statement
-> If NorthBridge Legal Services does not enforce multi-factor authentication across critical systems, compromised credentials could allow unauthorized access to sensitive client and business data.
-
+> If user access rights are not regularly reviewed and aligned with job responsibilities, former employees or unauthorized users may retain access to sensitive systems, increasing the risk of data exposure or misuse.
 ---
 
 ## 🛣️ Remediation Roadmap
